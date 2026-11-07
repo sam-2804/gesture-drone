@@ -1,0 +1,26 @@
+# =========================
+# C# Backend (.NET)
+# =========================
+c#_backend/bin/
+c#_backend/obj/
+*.user
+*.userprefs
+*.sln.docstates
+
+# =========================
+# Godot 3.6 Client
+# =========================
+godot_client/.import/
+godot_client/.mono/
+godot_client/export_presets.cfg
+*.translation
+*.tmp
+
+# =========================
+# Editor & OS Environments
+# =========================
+*.sublime-workspace
+*.sublime-project
+.vscode/
+.idea/
+*~
